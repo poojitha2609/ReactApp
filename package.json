@@ -1,0 +1,14 @@
+{
+  "name": "pooja",
+  "version": "1.0.0",
+  "description": "Dockerizing the reactapp using github actions",
+  "main": "index.js",
+  "scripts": {
+    "test":"jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
